@@ -1,0 +1,31 @@
+html {
+	margin: 10px;
+	padding: 10px;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	color: #1fa276;
+}
+hr {
+	border: 1px solid rgb(210, 210, 210);
+	margin: 20px 0;
+}
+
+li {
+	margin-bottom: 10px;
+}
+
+code {
+	background-color: #e7e7e7;
+	color: #601fa2;
+	padding: 0px 4px;
+	border-radius: 4px;
+	font-size: 14px;
+}
